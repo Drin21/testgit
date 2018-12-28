@@ -1,2 +1,8 @@
+Day1:26/12/18
 This is my first Git
 Status: Successful
+
+-- > 27/12/18 did report
+
+Day2:28/12/18
+just updating: practicing
