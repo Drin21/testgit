@@ -1,8 +1,31 @@
-Day1:26/12/18
+"""
+This is just my log, to keep  track of the things I've learned and accomplised
+I basically just right anything here, but hopefully this will be a big help in  the future to assess my path
+
+"""
+
+
+# Day1:26/12/18
 This is my first Git
 Status: Successful
 
--- > 27/12/18 did report
+Things I've learned and accomplished: 
+- control pi using SSH, followed by a mini LED project
+- for codecademy:
+	> finished function
+	> learned how to use terminal(Git Bash)
+	> learned how to push projects in Github
+- created a Webserver using Flask (really great environment to learn!!! so much more to explore and learn!!)
+	> was able to upload projects using PyCharm(excellent IDE, love it!!)
+	> used Putty a lot now to execute commands
 
-Day2:28/12/18
+
+# Day 2:27/12/18 
+- did uni report
+- made upcoming projects plans
+- made list of things I will need to learn
+- looked for jobs 
+
+# Day3:28/12/18
 just updating: practicing
+(more reports to do but will be back to do more projects)
